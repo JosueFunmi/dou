@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "fredy.josue.dougbe",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "dougbe",
+    "packageName": "fredy.josue.dougbe",
+    "packageFolder": "fredy/josue/dougbe",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWM5YWU5MjkxNjMxOTI3Mzk4YWY5ZTg0ZDU5NWEyMDI4NDg2YWUzYjJlNjllZGVlZTI0Y2NkZjEwZDU1OWY3NTA2ODFiYTg3YzQ4Y2I1YTRhNzliMDI4ZDJhM2ZkODk4ZGE1YmY2MjY3N2VlYTI2OWEwYWJjZGM1NzdkM2EzNmU=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "fr",
+      "en"
+    ]
+  }
+}
